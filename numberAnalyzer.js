@@ -15,7 +15,7 @@ function analyzeNumbers(numbers) {
         // Calculate sum
         
         // Find largest number
-        i
+        
 
         // Find smallest number
         
