@@ -31,10 +31,10 @@ const students = [
   function calculateAverage() {}
 
   // Function to find minimum grade
-  function findMinimum(grades) {}
+  function findMinimum() {}
 
   // Function to find maximum grade
-  function findMaximum(grades) {}
+  function findMaximum() {}
   ```
 
 ### 3.Individual Student Analysis:
